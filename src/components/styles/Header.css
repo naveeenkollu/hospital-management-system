@@ -4,6 +4,7 @@
   background-color: #f6edff;
   display: flex;
   border-bottom: 1px solid #ede4fd;
+  position: sticky;
 }
 
 .logo {
@@ -58,7 +59,7 @@ input[type="search"]::placeholder {
 }
 
 .notification {
-  margin: 17px;
+  margin: 20px;
 }
 
 .avatar {

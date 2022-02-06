@@ -25,6 +25,17 @@ export function Dashboard() {
             <p>Patient History</p>
             <div className="p-history"></div>
           </div>
+
+          <div className="dash-row-3">
+            <div className="col-1">
+              <p>Daily Patients</p>
+              <div className="d-patients"></div>
+            </div>
+            <div className="col-2">
+              <p>Top Doctors</p>
+              <div className="t-doctors"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
